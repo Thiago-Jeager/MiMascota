@@ -31,7 +31,7 @@ function NavScrollExample() {
             </NavDropdown>            
           </Nav>
           {/* <i class="fa-brands fa-react"></i> */}
-            <Button variant="success">Login</Button>
+            <Button variant="success" href='/login'>Login</Button>
         </Navbar.Collapse>
       </Container>
     </Navbar>

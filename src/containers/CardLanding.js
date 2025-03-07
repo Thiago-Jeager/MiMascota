@@ -2,7 +2,7 @@ import { Card } from "react-bootstrap";
 import mountain from "../assets/img/fondo.png";
 import CardInfo from "../components/Cards/CardInfo/CardInfo";
 // import leaf from "../../assets/img/leaf.png";
-function BasicExample() {
+function CardLanding() {
   return (
     <>
       {/* Sección con imagen de fondo */}
@@ -52,4 +52,4 @@ function BasicExample() {
   );
 }
 
-export default BasicExample;
+export default CardLanding;
